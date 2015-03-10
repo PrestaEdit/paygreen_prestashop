@@ -6,7 +6,7 @@
 	</p>
 {else}
 	<p class="dark">
-		<strong>Votre paiement avec Paygreen as été accepté</strong><br />
+		<strong>Votre paiement avec Paygreen a été accepté</strong><br />
 		Vous pouvez nous contacter pour en <a href="{$base_dir_ssl}index.php?controller=contact">savoir plus</a>
 	</p>
 {/if}
